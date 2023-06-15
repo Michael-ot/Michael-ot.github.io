@@ -8,7 +8,7 @@ tags: [Reactjs]
 
 ![Reactjs Ranking](https://res.cloudinary.com/practicaldev/image/fetch/s--dC7_DUyI--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/cfp71cihfcz29kxi00pj.jpg)
 
-# Introduction
+## Introduction
 
 In the ever-evolving world of web development, choosing the right technology stack is essential for building robust and efficient applications. One framework that has taken the industry by storm is React.js. Born out of the need for better user interfaces, React.js has revolutionized the way we approach front-end development. In this blog post, we will explore the reasons why React.js has become the go-to choice for developers worldwide.
 
