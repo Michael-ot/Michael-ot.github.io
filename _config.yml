@@ -148,9 +148,7 @@ yat:
  header_pages:
    - index.html
    - about.md
-#   - archives.html
    - categories.html
-#   - tags.html
    
 
 # Page default value
