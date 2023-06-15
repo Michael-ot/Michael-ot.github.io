@@ -91,12 +91,21 @@ Team collaboration
 ## My Projects
 
 **Blast Royale** https://blastroyale.com/
+
 **VDM Health** https://vdmhealth.com/
+
 **Officemate Accounting** https://cavidel.com/products/officemate_accounting
+
 **Officemate ERP** https://cavidel.com/products/officemate_erp
+
 **Buildspec** https://buildspeconline.com/
+
 **MayorBranded** https://www.mayorbranded.com/
+
 **Humblize** https://humblize.com/
+
 **EyeKontract** https://eyekontact.com.ng/
+
 **JandG Investment** https://jandginvestment.com.ng/
+
 **Cavidel Learning Management** https://lms.officemate.ng/
