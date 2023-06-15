@@ -109,3 +109,9 @@ Team collaboration
 **JandG Investment** https://jandginvestment.com.ng/
 
 **Cavidel Learning Management** https://lms.officemate.ng/
+
+## Contact
+
+LinkedIn - https://www.linkedin.com/in/michael-otusanya-98a60389/
+Twitter - https://twitter.com/snapydeveloper
+Email - michaelotusanya@gmail.com
