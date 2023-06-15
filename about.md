@@ -13,7 +13,7 @@ I thrive in dynamic environments that demand creativity and problem-solving skil
 
 As a Senior Software Engineer, I'm committed to delivering exceptional results while maintaining a collaborative and inclusive work culture. I value open communication, teamwork, and knowledge sharing, which have been instrumental in achieving successful project outcomes.
 
-## My Experiences
+## My Experience
 
 **Senior Software Engineer - (Team Lead) | Jan 2021 - Present**
 Humblize INC - Remote, United States
@@ -59,3 +59,44 @@ At Law Pavilion, I utilized HTML, CSS, and JavaScript to code and develop featur
 Kreative Stack - Remote, Nigeria
 
 During my time at Kreative Stack, I developed two freelance web application platforms inspired by platforms like Fiverr.com and Freelancer.com. These applications were built using the Laravel framework. I actively suggested enhancements to the product design to improve the user experience. Additionally, I collaborated with peers and design team members in brainstorming sessions to determine new enhancements and product features. I documented each step of the product's design process for use in manuals.
+
+## My Expertise
+
+React
+Vue
+React Native 
+Laravel
+PHP 
+Javascript 
+Typescript 
+Node 
+Tailwindcss
+Bootstrap 
+HTML5 
+CSS 
+Jquery 
+AWS 
+SQL 
+Front-End 
+Rest API
+UI design
+Nosql with Firebase 
+Interactive design 
+Leadership
+Coaching
+Good decision making 
+Team collaboration
+
+
+## My Projects
+
+**Blast Royale** https://blastroyale.com/
+**VDM Health** https://vdmhealth.com/
+**Officemate Accounting** https://cavidel.com/products/officemate_accounting
+**Officemate ERP** https://cavidel.com/products/officemate_erp
+**Buildspec** https://buildspeconline.com/
+**MayorBranded** https://www.mayorbranded.com/
+**Humblize** https://humblize.com/
+**EyeKontract** https://eyekontact.com.ng/
+**JandG Investment** https://jandginvestment.com.ng/
+**Cavidel Learning Management** https://lms.officemate.ng/
